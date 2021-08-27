@@ -61,6 +61,11 @@ Source:
 
 Annotation service used: BRAT and Doccano annotation tools.
 BRAT annotation tool hosted on AWS EC2 instance.
+AWS: Hosted an instance on Ubuntu and installed BRAT on it(the EC2 server) for the annotators to access.
+
+Elastic Search: 
+It is faster because of index searching instead of direct text searching. A server that Processes JSON requests and give you back JSON data. An index is a collection of documents that have similar characteristics. In this case, the indices would be prejudgement data, judgements, judges, citations, etc. 
+Essentially forming structured data from unstructured data.
 
 BERT model:
 Bidirectional Encoder Representations from Transformers.
