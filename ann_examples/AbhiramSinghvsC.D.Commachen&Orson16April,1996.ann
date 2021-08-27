@@ -1,0 +1,44 @@
+T1	Section 473 486	Section  116B
+T2	Act 494 532	Representation of the People Act, 1951
+R1	SECTION_OF Arg1:T1 Arg2:T2	
+T3	Section 2921 2932	Section  99
+T4	Act 2941 2980	Representation  of the People Act, 1951
+R2	SECTION_OF Arg1:T3 Arg2:T4	
+T5	Case 3183 3252	Suryakant Venkatrao  Mahadik v. Smt.@@@@@Saroj Sandesh Naik [Bhosale]
+T6	Cite 3253 3271	[(1996) 1 SCC 384]
+T7	Case 3273 3316	Ramakant Mayekar v. Smt.@@@@@Celine D'Silva
+T8	Cite 3317 3335	[1996) 1  SCC 399]
+T9	Cite 3337 3354	[1996) 1 SCC 378]
+T10	Case 3356 3426	Prof.@@@@@Ramchandra G.  Kapse etc.  v. Haribansh  Ramakbal Singh etc.
+T11	Cite 3427 3445	[1996) 1  SCC 206]
+T12	Case 3448 3497	Moreshwar Save v. Dwarkadas Yashwantrao Pathrikar
+T13	Cite 3498 3517	[1996)  1 SCC  394]
+T14	Section 3549 3566	Sections 123  [3]
+T15	Section 3571 3579	123 [3A]
+T16	Section 3662 3672	Section 99
+R3	CITATION_OF Arg1:T6 Arg2:T5	
+R4	CITATION_OF Arg1:T8 Arg2:T7	
+R5	CITATION_OF Arg1:T9 Arg2:T7	
+R6	CITATION_OF Arg1:T11 Arg2:T10	
+R7	CITATION_OF Arg1:T13 Arg2:T12	
+T17	Section 4305 4318	Section 99(1)
+T18	Section 5204 5218	Section  99(1)
+T19	Section 5320 5332	Section  123
+T20	Section 5705 5734	sub-section [1] of Section 99
+T21	Section 5786 5796	Section 98
+T22	Case 6543 6611	Dr.@@@@@Ramesh Yeshwant Prabhoo v. Prabhakar Kashinath Kunte &  Ors.
+T23	Cite 6616 6634	[(1996) 1 SCC 130]
+T24	Section 6682 6696	Section  99(1)
+R8	CITATION_OF Arg1:T23 Arg2:T22	
+T25	Section 7530 7540	Section 99
+T26	Section 7647 7688;7690 7693	sub-sections [3] and [3A] of Section@@@@@ 123
+T27	Section 7898 7939;7941 7944	sub-section [3]  or [3A]  of Section@@@@@ 123
+T28	Section 8740 8778	sub-section [3] or (3A) of Section 123
+T29	Section 8287 8297	Section 99
+T30	Section 8178 8188	Section 99
+T31	Section 8818 8828	Section 99
+T32	Section 9616 9626	Section 99
+T33	Section 9800 9811	Section  99
+T34	Act 9821 9854	Representation of  the People Act
+T35	Section 10526 10555	sub-section [1] of Section 99
+T36	Section 10451 10462	Section  99
